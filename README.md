@@ -25,4 +25,10 @@ your desired instance2
 ********************************************************************************** "user_name" and "user_des" can be changed as per requirment
 
 ********************************************************************************user name of instance can be changed in grantrevoke.yml .Default here is used as ubuntu.
-*******************************************************************************
+******************************************************************************
+NOTE - 
+
+Please use desired public key in ssh-key/user/id_rsa.pub
+
+Key provided in this directory should be replaced by original key .
+*************************************************************************************************8
