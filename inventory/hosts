@@ -1,0 +1,7 @@
+[servers]
+serverinstance1
+serverinstance2
+
+[servers:vars]
+user_name=user
+user_des="new developer"
